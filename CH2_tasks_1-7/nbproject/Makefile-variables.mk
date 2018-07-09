@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=GNU-Linux
 CND_ARTIFACT_DIR_Debug=dist/Debug/GNU-Linux
-CND_ARTIFACT_NAME_Debug=ch4_cin_cout
-CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-Linux/ch4_cin_cout
+CND_ARTIFACT_NAME_Debug=ch2_tasks_1-7
+CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-Linux/ch2_tasks_1-7
 CND_PACKAGE_DIR_Debug=dist/Debug/GNU-Linux/package
-CND_PACKAGE_NAME_Debug=ch4cincout.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/GNU-Linux/package/ch4cincout.tar
+CND_PACKAGE_NAME_Debug=ch2tasks1-7.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/GNU-Linux/package/ch2tasks1-7.tar
 # Release configuration
 CND_PLATFORM_Release=GNU-Linux
 CND_ARTIFACT_DIR_Release=dist/Release/GNU-Linux
-CND_ARTIFACT_NAME_Release=ch4_cin_cout
-CND_ARTIFACT_PATH_Release=dist/Release/GNU-Linux/ch4_cin_cout
+CND_ARTIFACT_NAME_Release=ch2_tasks_1-7
+CND_ARTIFACT_PATH_Release=dist/Release/GNU-Linux/ch2_tasks_1-7
 CND_PACKAGE_DIR_Release=dist/Release/GNU-Linux/package
-CND_PACKAGE_NAME_Release=ch4cincout.tar
-CND_PACKAGE_PATH_Release=dist/Release/GNU-Linux/package/ch4cincout.tar
+CND_PACKAGE_NAME_Release=ch2tasks1-7.tar
+CND_PACKAGE_PATH_Release=dist/Release/GNU-Linux/package/ch2tasks1-7.tar
 #
 # include compiler specific variables
 #

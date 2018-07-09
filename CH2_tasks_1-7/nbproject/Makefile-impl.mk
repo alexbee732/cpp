@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=CH4_cin_cout
+PROJECTNAME=CH2_tasks_1-7
 
 # Active Configuration
 DEFAULTCONF=Debug
